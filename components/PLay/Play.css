@@ -1,0 +1,22 @@
+.j2{
+  height: 720px;
+  width: 1300px;
+}
+
+.poke{
+  height: 300px;
+  width: 100%;
+  padding: 100;
+  position: absolute;
+  overflow: hidden;
+}
+body{
+  overflow-x: hidden;
+  background-color: black;
+}
+
+
+.jj{
+  height: 300px;
+  overflow:auto;
+}
